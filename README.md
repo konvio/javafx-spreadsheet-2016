@@ -45,3 +45,5 @@ and named capturing groups to extract information from entered text.
 * **Tarjan's algorithm** to detect cycled references
 * **Topological sorting** to determine in what order evaluate cells
 * **Shunting-yard algorithm** to evaluate expression and respect precedence and braces
+
+######Copyright © 2016 by Vitaliy Kononenko, K-24
